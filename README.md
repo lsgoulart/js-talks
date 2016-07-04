@@ -9,6 +9,7 @@
 1. [Ju Gonçalves: **Reduce seu novo melhor amigo**](https://www.youtube.com/watch?v=P9mAnhNFKO4) [31:23] [_pt-BR_]
 1. [James Halliday: **What you can build with a log**](https://www.youtube.com/watch?v=RPFjN1N148U) [33:56] [_en_]
 1. [Sebastian McKenzie: **Making Javascript Initialize Faster**](https://www.youtube.com/watch?v=xbZzahWakGs) [6:43] [_en_]
+1. [Nicolas Bevacqua: **High Performance in the Critical Rendering Path**](https://www.youtube.com/watch?v=PqA3jBpT6T0&t) [29:10]
 
 ## CSS
 1. [Fernando Fleury: **PostCSS - Além dos pré-processadores**](https://www.youtube.com/watch?v=hWNzhKIa34w) [52:26] [_pt-BR_]
