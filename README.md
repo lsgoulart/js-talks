@@ -17,3 +17,7 @@
 
 ## GraphQL
 1. [Steven Luscher: **Zero to GraphQL in 30 Minutes**](https://www.youtube.com/watch?v=UBGzsb2UkeY) [30:12] [_en_]
+
+
+## RethinkDB
+1. [Jorge Silva: **Data Modeling in RethinkDB**](https://www.youtube.com/watch?v=vJtDNRsUozk) [21:02] [_en_]
